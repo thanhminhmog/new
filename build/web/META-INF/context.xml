@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Struts2SE1269_Annotation">
+    <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="DS007" password="486300" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;dataBaseName=User" username="sa"/>
+</Context>
